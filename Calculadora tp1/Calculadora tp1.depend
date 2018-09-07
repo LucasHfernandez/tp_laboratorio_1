@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1535904357 source:c:\users\hoshii-manteca\documents\cosillas de hoshii\code blocks projects\calculadora tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1536250454 source:c:\users\lucas\documents\laboratorio_programacion1-master\laboratorio_programacion1-master\tp1\calculadora tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1536250573 c:\users\lucas\documents\laboratorio_programacion1-master\laboratorio_programacion1-master\tp1\calculadora tp1\operaciones.h
+
+1536250541 source:c:\users\lucas\documents\laboratorio_programacion1-master\laboratorio_programacion1-master\tp1\calculadora tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1536280876 source:d:\laboratorio_programacion1-master\laboratorio_programacion1-master\tp1\calculadora tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
+1536282940 d:\laboratorio_programacion1-master\laboratorio_programacion1-master\tp1\calculadora tp1\operaciones.h
+
+1536282940 source:d:\laboratorio_programacion1-master\laboratorio_programacion1-master\tp1\calculadora tp1\operaciones.c
+	<stdio.h>
+	<stdlib.h>
+	"Operaciones.h"
+
