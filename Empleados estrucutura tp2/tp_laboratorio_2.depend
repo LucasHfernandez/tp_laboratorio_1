@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1542502708 source:d:\users\hoshii-manteca\documents\cosillas de hoshii\utn\tp_laboratorio_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1542506089 d:\users\hoshii-manteca\documents\cosillas de hoshii\utn\tp_laboratorio_2\arrayemployees.h
+
+1542506089 source:d:\users\hoshii-manteca\documents\cosillas de hoshii\utn\tp_laboratorio_2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArrayEmployees.h"
+
