@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1543281203 source:d:\fernandez_lucas_1f_sp\parcial2lab\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"employee.h"
+
+1543281384 d:\fernandez_lucas_1f_sp\parcial2lab\linkedlist.h
+
+1543281218 d:\fernandez_lucas_1f_sp\parcial2lab\employee.h
+
+1543279223 source:d:\fernandez_lucas_1f_sp\parcial2lab\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1543279898 source:d:\fernandez_lucas_1f_sp\parcial2lab\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"employee.h"
+
