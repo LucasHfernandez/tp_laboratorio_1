@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1544742200 source:d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1544742200 d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\linkedlist.h
+
+1544743224 source:d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\logistica.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"LinkedList.h"
+	"logistica.h"
+
+1544742908 d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\logistica.h
+
+1544743395 source:d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+	"utn.h"
+	"logistica.h"
+
+1543281403 d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\utn.h
+
+1544739179 source:d:\finallaboratorio fernandez 1ºf\finallaboratoriofernandez\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+
